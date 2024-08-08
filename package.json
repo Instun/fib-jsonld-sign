@@ -1,0 +1,26 @@
+{
+  "name": "fib-jsonld-sign",
+  "version": "1.0.0",
+  "description": "An implementation of the Linked Data Signatures specification for JSON-LD. Works in fibjs.",
+  "homepage": "https://github.com/Instun/fib-jsonld",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Instun/fib-jsonld-sign"
+  },
+  "license": "BSD-3-Clause",
+  "main": "lib/index.js",
+  "keywords": [
+    "JSON",
+    "JSON-LD",
+    "Linked Data",
+    "RDF",
+    "Semantic Web",
+    "jsonld",
+    "digital signatures"
+  ],
+  "author": "",
+  "dependencies": {
+    "jsonld-signatures": "^11.3.0",
+    "fib-jsonld": "^1.1.0"
+  }
+}
